@@ -16,7 +16,7 @@ your local machine for development and testing purposes.
 
 ## Running the tests
 
-This main script is "happy-hotel.ipynb" notebook that includes the codes and documentation of exploring the dataset.
+The main script is "happy-hotel.ipynb" notebook, which includes the codes and documentation of exploring the dataset.
 
 ## Authors
 
